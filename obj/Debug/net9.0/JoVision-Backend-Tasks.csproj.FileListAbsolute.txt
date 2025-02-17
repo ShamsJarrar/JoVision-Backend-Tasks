@@ -31,3 +31,10 @@ C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\obj\Debug\net9.0\r
 C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\obj\Debug\net9.0\JoVision-Backend-Tasks.pdb
 C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\obj\Debug\net9.0\JoVision-Backend-Tasks.genruntimeconfig.cache
 C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\obj\Debug\net9.0\ref\JoVision-Backend-Tasks.dll
+C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\obj\Debug\net9.0\JoVision-Backend-Tasks.sourcelink.json
+C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shams Jarrar\Desktop\Projects\JoVision-Backend-Tasks\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
