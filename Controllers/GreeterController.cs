@@ -8,7 +8,7 @@ namespace GreeterApi.Contollers
     {
 
         [HttpGet]
-        public ActionResult<string> GetGreeting([FromQuery] string name = "anonymous") 
+        public ActionResult<string> Get([FromQuery] string name = "anonymous") 
         {
             return Ok($"Hello {name}");
         }
