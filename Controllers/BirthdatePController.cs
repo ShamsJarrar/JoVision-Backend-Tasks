@@ -1,17 +1,15 @@
-using System;
 using Microsoft.AspNetCore.Mvc;
 using static AgeCalculator;
 
-namespace GreeterApi.Controllers
+namespace GreeterPostApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class BirthDateController : ControllerBase
+    public class BirthdatePostController : ControllerBase
     {
-        [HttpGet]
-        public ActionResult<string> Get([FromQuery] string name = "anonymous", int? year = null, 
-        int? month = null, int? day = null) 
-        {
+        [HttpPost]
+        public IActionResult Birthdate([FromForm] string name = "anonymous", [FromForm] int? year = null, 
+        [FromForm] int? month = null, [FromForm] int? day = null) {
             if(year != null && month != null && day != null) {
                 int age = getAge((int)year, (int)month, (int)day);
 
