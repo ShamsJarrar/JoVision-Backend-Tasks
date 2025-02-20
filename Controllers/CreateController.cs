@@ -37,7 +37,7 @@ public class CreateController : ControllerBase
                 await image.CopyToAsync(fs);
             }
 
-            Metadata metadata = new Metadata(owner);
+            Metadata metadata = new Metadata(owner, image.FileName);
 
             await System.IO.File.WriteAllTextAsync(metadataPath, JsonSerializer.Serialize(metadata));
             return Created($"/api/create/{image.FileName}", "File created succefully!");
