@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JoVision-Backend-Tasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48c2a3bf8c9e86b0adac39a5f3c76fa8d6b88cba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b69f9397e22469866d01e8beae35eded4ce8551c")]
 [assembly: System.Reflection.AssemblyProductAttribute("JoVision-Backend-Tasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JoVision-Backend-Tasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
